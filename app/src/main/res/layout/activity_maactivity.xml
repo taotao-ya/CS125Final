@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8DEE3"
+    android:orientation="vertical"
+    tools:context=".MAActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="518dp"
+        android:background="#B8DEE3"
+        android:gravity="center"
+        android:text="Nowadays, more and more teenagers are bothered with adolescent hypertension because of  irregular diet and staying up all night. In fact, many of them don’t realize they are suffering high blood pressure. This is a very serious disease, which can lead to damage influences on brain and other organs. But with scientific rest and diet planning,  there’s still chance to recover.  If we ignore this situation for long time, high blood pressure and many complications will haunt us all our lives. So we need an APP to help us get away from  adolescent hypertension and maintain a healthy body."
+        android:textSize="20sp" />
+
+    <android.widget.Button
+        android:id="@+id/mabt_1"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:background="#4FA69D"
+        android:gravity="center"
+        android:layout_marginTop="2dp"
+        android:text="BACK" />
+
+</LinearLayout>

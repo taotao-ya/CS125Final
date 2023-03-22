@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FAActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="Food Advice"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="1. You should eat less spicy food. The main hazards of eating spicy food are easy to induce gastrointestinal diseases, oral diseases and affect renal function"
+        android:textSize="25sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="2. You should eat less spicy food. The main hazards of eating spicy food are easy to induce gastrointestinal diseases, oral diseases and affect renal function"
+        android:textSize="25sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="3. You belong to the overweight group, so you are recommended to eat fruits and vegetables. Banana, apple, grape, persimmon, pineapple, Spinach, beans, potatoes and elery are recommended."
+        android:textSize="25sp" />
+
+</LinearLayout>
